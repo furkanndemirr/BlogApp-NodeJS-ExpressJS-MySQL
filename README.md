@@ -1,8 +1,6 @@
 # BlogApp-NodeJS-ExpressJS-MySQL
-![1](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/afcbe78e-f5d1-470e-b911-df2b07fd1ff1)
-![2](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/f42189ed-1641-4799-ab9b-bbac6e4f4c79)
-![3](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/c3d99b2a-b051-4af3-9e68-8112f73396aa)
-![4](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/353c5bb7-95d5-470a-9ac0-f6144fc415d0)
-![5](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/ac3dba01-458f-482e-8981-350aff6dd8d4)
-
-
+![1](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/3feb8cb2-5494-4658-9618-0c5410cae869)
+![2](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/76473ec6-c495-4bb5-b844-562a79e96369)
+![3](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/5587fa38-093c-4e11-b4f0-b41074c99750)
+![4](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/87a1f7ef-76d8-467e-8233-676150d6d5cd)
+![5](https://github.com/furkanndemirr/BlogApp-NodeJS-ExpressJS-MySQL/assets/99350923/e5993585-0779-4445-9b3c-420b74c0723e)
